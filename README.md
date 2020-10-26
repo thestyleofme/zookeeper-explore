@@ -4,6 +4,10 @@
 
 原生api以及curator方式对zk的操作
 
+### zk-config-web-demo
+
+zk统一配置mysql数据源配置的一个web demo
+
 ### zk应用场景
 
 - 数据发布订阅
